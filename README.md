@@ -16,7 +16,6 @@ Simply execute (1.1) client.py to test if server is live, and works correctly.
 
 Change variable.py, within given format, to test different data with (1.1).
 
-
 Server is already set up, thus is enclosed for invesigation purposes only
 
 (2.1) flask server.py, is the flask server code that works in 
