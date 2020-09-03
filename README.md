@@ -1,17 +1,17 @@
 # Fuzzymatchserver
-Fuzzy string matching, publicly callable using API
+## Fuzzy string matching, publicly callable using API
 
 
 Enclosed are two folders.
 
 1. client side code(test, request)
-	1.1 client.py
-	1.2 variable.py
-2. server side code
-	2.1 flask server.py
-	2.2 Fuzz.py
+	1. client.py
+	1. variable.py
+1. server side code
+	1. flask server.py
+	1. Fuzz.py
 
-Simply execute (1.1) client.py to test if server is live, and works correctly.
+### Simply execute (1.1) client.py to test if server is live, and works correctly.
 	Input data is stored in (1.2) variable.py
 
 Change variable.py, within given format, to test different data with (1.1).
